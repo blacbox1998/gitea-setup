@@ -5,3 +5,10 @@ Step by step instructions for installing standalone gitea server (with explanati
 
 -   test
 -   Moja nova recenica
+
+```bash
+    select * from test
+```
+
+
+
